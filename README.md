@@ -58,7 +58,7 @@ The Widgets folder keeps the main widgets in the app.
 I couldn't very helpful designs on Figma, looked at a bunch of them and just got inspired by various designs.
 
 ## Description of the features I would like to add if I had more time
-I would have loved to add animation, alert dialogs, bottom modal bottom sheets to make the app more interactive and i'd have loved to refactor.
+I would have loved to add animation, alert dialogs, bottom sheets to make the app more interactive and i'd have loved to refactor.
 
 ## Packages
 google_fonts: To change default font.
