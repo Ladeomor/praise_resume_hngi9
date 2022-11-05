@@ -14,11 +14,15 @@ My name and what I do is just below the header picture
 ## FloatingActionButton
 It implements a scroll controller that takes us back to the top of the screen when clicked on
 ## Work Experience Section
-## Professional Experience
+Displays my work experience
+## Professional Summary
+Displays my professional summary 
 ## Skills
+Displays my skills
 ## Recent Projects
+Displays recent projects
 ## Socials
-
+My social media links
 
 
 ## Description of Codebase:
@@ -32,7 +36,7 @@ The Experience Card is a container I created for my work experience section.
 The Project Card is a container I created for recent Projects.
 The Skill Component is a reusable container for skills acquired.
 ## Constants:
-I created text constant that I called everytime I needed the Text Widget
+I created text constant that I called everytime I needed the Text Widget.
 I created a recent project constant to create the data for each card so the application dynamically adapts whatever data I have defined.
 ## Model:
 The application houses various types of data, the Models folder helps structure data and to make the screen dynamic.
@@ -57,10 +61,10 @@ I couldn't very helpful designs on Figma, looked at a bunch of them and just got
 I would have loved to add animation, alert dialogs, bottom modal bottom sheets to make the app more interactive and i'd have loved to refactor.
 
 ## Packages
-google_fonts: To change default font
-url_launcher: To launch url
-provider: To and listen for changes
-shared_preferences: To persist data
+google_fonts: To change default font.
+url_launcher: To launch url.
+provider: To and listen for changes.
+shared_preferences: To persist data.
 
 ## APK Link
 https://drive.google.com/file/d/1tmy7gg8FqOdvURn3VTwb6ar-H-jBRfAY/view?usp=share_link
